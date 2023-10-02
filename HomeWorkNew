@@ -1,0 +1,9 @@
+תרגול ירושה:
+1. צור\י מיני פרוייקט של car management system, השתמש\י ברעיון ה-OOP. 
+צור\י מחלקות הכוללות את כל ה-members (properties, functions, constractors). 
+המחלקות הקיימות בפרוייקט – מחלקת Vehicle,,bike   truck, electric vehicles. 
+את\ה צריך\כה להחליט אילו מחלקות הן מחלקות אב/ ילד (superclass/ subclass).
+זכור\י להשתמש בפונקציית toString על מנת להציג את הדטה כראוי. בקונסטרקטור על מנת לאתחל את שדות האובייקטים. 
+2. כתוב תוכנית וצור מחלקה Employee ופונקציות - work() ו- getSalary().
+צור תת מחלקה שנקראת Manager שעושה override ל-work() והוסף פונקציה נוספת addEmployee().. 
+3.	כתוב תוכנית וצור מחלקה בשם Person עם פונקציות הנקראות getFirstName() ו-getLastName(). צור תת-מחלקה בשם Employee שמוסיפה פונקציה חדשה בשם getEmployeeId() ועושה override לפונקציה getLastName() כדי לכלול את ה-title משרה של העובד.
